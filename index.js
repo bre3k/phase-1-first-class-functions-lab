@@ -4,7 +4,7 @@ function receivesAFunction(callback) {
 
 function returnsANamedFunction() {
   return function named() {
-    console.log(The girl is Arya.)
+    console.log("The girl is Arya.")
   }
 }
 
